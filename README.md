@@ -8,8 +8,8 @@ TransferLearning  | Use labelImg and Yolov5 make your own custom objected detect
 
 ### ROAD CONDITION
 
-![images] ('images/RoadCondition.gif')
+![images] (images/RoadCondition.gif)
 
 ### TRANSFER LEARNING
 
-![images] ('images/Transfer.gif')
+![images] (images/Transfer.gif)
